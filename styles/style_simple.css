@@ -1,0 +1,5 @@
+p {
+	color: red;      /* makes all paragraph text red */
+	width: 500px;    /* makes all paragraphs just 500 pixels wide at most */
+	border: 1px solid black;  /* puts 1 pixel thick border around all paragraphs */
+}

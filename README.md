@@ -1,2 +1,1 @@
-# amcgarity.github.io
-Test website
+# mozilla_web_tutorial
